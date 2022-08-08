@@ -1,0 +1,13 @@
+,spacetype,spacearea,equipmentpowerdensity,modelingparameterschedule,baselinemodeledidentically,supportingdoclocation,modeloutputreport
+0,Fitness Plug Load,"1,895.00",0.5 W/SF,misc Apartment,Yes,EN- 100s,ECB
+1,MEP Plug Load,15.815.00,0.5 WSF,Available 100%,Yes,EN- 1005,ECB
+2,Residential Plug Load,"100,588.00",0.28 w/SF,Mise. Apartment,Yes,EN- 200s,ECB
+3,Retail Plug Load,"4,028.00",0.5 w/Sk,Misc. Retail,Yes,EN 100s,ECR
+4,Office Plug Load,137.00,0.5 WSF,Misc. Office,Yes,EN- 1005,ECB
+5,lobby,"7,511.00",0Ww/SE,Foolng Only (Design,Yes,EN- 100s,ECB
+6,Corridor,730.00,0W/SF,Cooling Only (Design,Yes,EN+ 100s,ECB
+7,Storage,"1,807.00",0W/SE,Available 100%,Yes,EN- 1005.,ECB
+8,lounge/Recreation,395.00,0 W/SF,Cooling Only (Design,Yes,EN 100s,ECB
+9,Stairway,"17,075.00",0 W/SF,Available 100%,Yes,FN- 1005,FCB
+10,,,,,,,
+11,TOTAL,"144,981",,,,,
