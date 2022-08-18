@@ -1,17 +1,17 @@
-,col1,col2,col3,col4,col5
-0,7,,Total Boiler Capacity,7050MBH perboiler | —*<|_—« [6000 MBH per boiler,"IM-401,402"
-1,7,,| Boiler Efficiency,82% Thermal (80% Combustion) | —_ [94.5% Thermal,"IM-401,402"
-2,-,.,Hot Water or Steam:,90F 0 ——i se OF,"M-401,402"
-3,7,,| HHW AT,SOF tti(iti‘éSOSOS™sésés COR,"IM-401,402"
-4,-,.,| HW Temp Reset,Outdoor Air Reset bit 130F &180F —[OA Linear reset bit 120F&160F,"M-401,402"
-5,-,.,| HHW Loop,Primary Variable ~=9=S———s*=~*édY:SC*é*iPrirmry Variable press. break,"M-401,402"
-6,-,.,| Number of Primary,Ps OO»,"M-401,402"
-7,-,.,| Primary HAW Pump,howepm =—s—i(ité‘éSCSC*rSCSC 2 WPM,"M-401,402"
-8,-,.,| Primary HHW Pump,"B64 si gpm 1,080 Ss gp","M-401,402"
-9,-,.,| Primary HHW Pump,Variable Speed = sss—iti=<~*sésCSCSsCS Variable Speed,"M-401,402"
-10,-,.,| Number of Secondary,NA a fp,"IM-401,402"
-11,-,.,| Secondary HHW Pump,NA sstsi—<i~sti‘isSY PM,"M-401,402"
-12,,Oe,a,eee,i
-13,7,.,) Secondary HW Pump,INA gpm 00 gor,"/M-401,402"
-14,-,.,| Secondary HHW Pump,NA )0tti(iti‘“‘“‘S™éSOC arial Speed,"M-401,402"
-15,-,.,Other (describe),NAN,NA
+,col3,col4,col5
+0,| Total Boiler Capacity,7050 MBH per boiler =—~—~—*||~—«([6000 MBH per boiler,"/M-401,402"
+1,| Boiler Efficiency,82% Thermal (80% Combustion) | —_|[94.5% Thermal,"|M-401,402"
+2,Hot Water or Steam,480F si BOF,"IM-401,402"
+3,| HW AT,SOF (itt”t”*~<“‘éSOSOSCS*SCéw «OF,"|M-401,402"
+4,| HW Temp Reset,lOutdoor Air Reset bit 130F & 180F -—|OA linear reset bit 120F&160F,"/M-401,402"
+5,HRW Loop,"Primary Variable = sss—=~*éid:SCsPrimary Variable wipes, break","M-401,402"
+6,| Number of Primary,Pe Ln,"IM-401,402"
+7,| Primary HAW Pump,howepm =i (asti‘<‘éSS#é*dLSC#éC 2,"M-401,402"
+8,| Primary HAW Pump,"bes ssi gpm 41,080 gr","IM-401,402"
+9,| Primary HAW Pump,VariableSpeed = ——_| Variable Speed,"IM-401,402"
+10,| Number of Secondary,NA a eg,"IM-401,402"
+11,| Secondary HHW Pump,NWA sss 2,"M-401,402"
+12,0C0C6CC EO EE EEE Oeeeeee_—__—__—_—_e|,eee,a
+13,| Secondary HHW Pump,INA gpm 600 gp,"IM-401,402"
+14,| Secondary HHW Pump,INA ttitititi‘éS OWN Speed,"M-401,402"
+15,Other (describe),INA NA,NA
